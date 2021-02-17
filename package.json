@@ -18,6 +18,8 @@
     "@hapi/hapi": "^20.0.3",
     "@hapi/inert": "^6.0.3",
     "@hapi/vision": "^6.0.1",
+    "@slack/events-api": "^3.0.0",
+    "@slack/web-api": "^6.0.0",
     "async": "^3.2.0",
     "babel-node": "0.0.1-security",
     "body-parser": "1.19.0",
@@ -42,6 +44,7 @@
     "mongoose": "^5.10.0",
     "path": "0.12.7",
     "randomstring": "1.1.5",
+    "sequelize": "^6.5.0",
     "socket.io": "2.2.0",
     "underscore": "1.9.1",
     "validator": "11.0.0"
